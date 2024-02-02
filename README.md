@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tresa Ann Thomas</h1>
 <h3 align="center">A second year student majoring in Computer Science student with a minor in Data Analytics at NUS</h3>
-https://www.pinterest.com/pin/717268678168057748/
-<img align = "right", src = "https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif", alt = "Coding", width = 400>
+<img align = "right", src = "https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif", alt = "Coding", width = 200>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teee728&label=Profile%20views&color=0e75b6&style=flat" alt="teee728" /> </p>
 
