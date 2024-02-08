@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teee728&label=Profile%20views&color=0e75b6&style=flat" alt="teee728" /> </p>
 
-- 🌱 I’m currently learning **C, Flutter, React Native**
+- 🌱 I’m currently learning **C, Flutter, Javascript**
 
 - 💬 Ask me about **Java**
 
