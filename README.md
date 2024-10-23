@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tresa Ann Thomas</h1>
-<h3 align="center">A second year student majoring in Computer Science with a minor in Data Analytics at NUS</h3>
+<h3 align="center">A third year student majoring in Computer Science with a minor in Data Analytics at NUS</h3>
 <img align = "right" src = "https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif" alt = "Coding" width = 400>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teee728&label=Profile%20views&color=0e75b6&style=flat" alt="teee728" /> </p>
