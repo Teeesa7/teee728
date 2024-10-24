@@ -10,22 +10,26 @@
       I love creating beautiful user experiences! I am currently working on my personal portfoliothat will be ready by December 2024 👀
 
 - 🛠️ Some of the projects I worked on:<br>
-      1. [Peer Prep](https://github.com/CS3219-AY2425S1/cs3219-ay2425s1-project-g01) 
-         A collaborative technical interview preparation platform, designed to match users for peer coding sessions. It features real-time code collaboration and question management.
-
-      2. [Three.JS Journey](https://github.com/Teeesa7/ThreeJS-Journey)
-         Enrolled in a specialized course on 3D web development using Three.JS and React Three Fiber, focusing on creating custom shaders and integrating skills with React and Blender.
-
-      3. [APOD Project](https://apod-project-react.netlify.app/)
-         A website that displays the Astronomy Picture of the Day using data fetched from NASA's APOD API
+      1. **Peer Prep**  
+         A collaborative technical interview preparation platform, designed to match users for peer coding sessions. It features real-time code collaboration and question management.  
+         [Peer Prep Repository](https://github.com/CS3219-AY2425S1/cs3219-ay2425s1-project-g01)
       
-      4. [Cruisey the Chat Bot](https://github.com/Teeesa7/ip/tree/master/docs):
-         A handy tool that helps you manage all yours tasks, deadlines, and events seamlessly.
-
-      5. [CodeConnect](https://github.com/Teeesa7/tp)
-         A platform that is used to manage your contacts, tailored to find your teammates for hackathons.
-  
-
+      2. **Three.JS Journey**  
+         Enrolled in a specialized course on 3D web development using Three.JS and React Three Fiber, focusing on creating custom shaders and integrating skills with React and Blender.  
+         [Three.JS Journey Repository](https://github.com/Teeesa7/ThreeJS-Journey)
+      
+      3. **APOD Project**  
+         A website that displays the Astronomy Picture of the Day using data fetched from NASA's APOD API.  
+         [APOD Project Link](https://apod-project-react.netlify.app/)
+      
+      4. **Cruisey the Chat Bot**  
+         A handy tool that helps you manage all your tasks, deadlines, and events seamlessly.  
+         [Cruisey the Chat Bot Repository](https://github.com/Teeesa7/ip/tree/master/docs)
+      
+      5. **CodeConnect**  
+         A platform used to manage your contacts, tailored to help find teammates for hackathons.  
+         [CodeConnect Repository](https://github.com/Teeesa7/tp)
+        
 - 📫 How to reach me **teeesa728@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
