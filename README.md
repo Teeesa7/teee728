@@ -10,7 +10,8 @@
       I love creating beautiful user experiences! I am currently working on my personal portfoliothat will be ready by December 2024 👀
 
 - 🛠️ Some of the projects I worked on:<br>
-      1. **Peer Prep**  
+
+  1. **Peer Prep**  
          A collaborative technical interview preparation platform, designed to match users for peer coding sessions. It features real-time code collaboration and question management.  
          [Peer Prep Repository](https://github.com/CS3219-AY2425S1/cs3219-ay2425s1-project-g01)
       
