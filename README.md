@@ -6,32 +6,32 @@
 
 - 🌱 I’m currently learning **Three.JS**
 
-- 💬 Ask me about **3D Web Development!**<br>
-      I love creating beautiful user experiences! I am currently working on my personal portfoliothat will be ready by December 2024 👀
+- 💬 Ask me about **3D Web Development!**  
+  I love creating beautiful user experiences! I am currently working on my personal portfolio that will be ready by December 2024 👀
 
-- 🛠️ Some of the projects I worked on:<br>
+- 🛠️ Some of the projects I worked on:
 
   1. **Peer Prep**  
-         A collaborative technical interview preparation platform, designed to match users for peer coding sessions. It features real-time code collaboration and question management.  
-         [Peer Prep Repository](https://github.com/CS3219-AY2425S1/cs3219-ay2425s1-project-g01)
+      &nbsp;&nbsp;&nbsp;&nbsp;A collaborative technical interview preparation platform, designed to match users for peer coding sessions. It features real-time code collaboration and question management.  
+      &nbsp;&nbsp;&nbsp;&nbsp;[Peer Prep Repository](https://github.com/CS3219-AY2425S1/cs3219-ay2425s1-project-g01)
       
-      2. **Three.JS Journey**  
-         Enrolled in a specialized course on 3D web development using Three.JS and React Three Fiber, focusing on creating custom shaders and integrating skills with React and Blender.  
-         [Three.JS Journey Repository](https://github.com/Teeesa7/ThreeJS-Journey)
+  2. **Three.JS Journey**  
+      &nbsp;&nbsp;&nbsp;&nbsp;Enrolled in a specialized course on 3D web development using Three.JS and React Three Fiber, focusing on creating custom shaders and integrating skills with React and Blender.  
+      &nbsp;&nbsp;&nbsp;&nbsp;[Three.JS Journey Repository](https://github.com/Teeesa7/ThreeJS-Journey)
       
-      3. **APOD Project**  
-         A website that displays the Astronomy Picture of the Day using data fetched from NASA's APOD API.  
-         [APOD Project Link](https://apod-project-react.netlify.app/)
+  3. **APOD Project**  
+      &nbsp;&nbsp;&nbsp;&nbsp;A website that displays the Astronomy Picture of the Day using data fetched from NASA's APOD API.  
+      &nbsp;&nbsp;&nbsp;&nbsp;[APOD Project Link](https://apod-project-react.netlify.app/)
       
-      4. **Cruisey the Chat Bot**  
-         A handy tool that helps you manage all your tasks, deadlines, and events seamlessly.  
-         [Cruisey the Chat Bot Repository](https://github.com/Teeesa7/ip/tree/master/docs)
+  4. **Cruisey the Chat Bot**  
+      &nbsp;&nbsp;&nbsp;&nbsp;A handy tool that helps you manage all your tasks, deadlines, and events seamlessly.  
+      &nbsp;&nbsp;&nbsp;&nbsp;[Cruisey the Chat Bot Repository](https://github.com/Teeesa7/ip/tree/master/docs)
       
-      5. **CodeConnect**  
-         A platform used to manage your contacts, tailored to help find teammates for hackathons.  
-         [CodeConnect Repository](https://github.com/Teeesa7/tp)
-        
-- 📫 How to reach me **teeesa728@gmail.com**
+  5. **CodeConnect**  
+      &nbsp;&nbsp;&nbsp;&nbsp;A platform used to manage your contacts, tailored to help find teammates for hackathons.  
+      &nbsp;&nbsp;&nbsp;&nbsp;[CodeConnect Repository](https://github.com/Teeesa7/tp)
+
+- 📫 How to reach me: **teeesa728@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
