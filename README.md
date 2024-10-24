@@ -6,11 +6,10 @@
 
 - 🌱 I’m currently learning **Three.JS**
 
-- 💬 Ask me about **3D Web Development!**
-      I love creating beautiful user experiences! I am currently working on my personal portfolio
-      that will be ready by December 2024 👀
+- 💬 Ask me about **3D Web Development!**<br>
+      I love creating beautiful user experiences! I am currently working on my personal portfoliothat will be ready by December 2024 👀
 
-- 🛠️ Some of the projects I worked on:
+- 🛠️ Some of the projects I worked on:<br>
       1. [Peer Prep](https://github.com/CS3219-AY2425S1/cs3219-ay2425s1-project-g01) 
          A collaborative technical interview preparation platform, designed to match users for peer coding sessions. It features real-time code collaboration and question management.
 
@@ -25,6 +24,7 @@
 
       5. [CodeConnect](https://github.com/Teeesa7/tp)
          A platform that is used to manage your contacts, tailored to find your teammates for hackathons.
+  
 
 - 📫 How to reach me **teeesa728@gmail.com**
 
