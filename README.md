@@ -4,9 +4,27 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teee728&label=Profile%20views&color=0e75b6&style=flat" alt="teee728" /> </p>
 
-- 🌱 I’m currently learning **C, Flutter, Javascript**
+- 🌱 I’m currently learning **Three.JS**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **3D Web Development!**
+      I love creating beautiful user experiences! I am currently working on my personal portfolio
+      that will be ready by December 2024 👀
+
+- 🛠️ Some of the projects I worked on:
+      1. [Peer Prep](https://github.com/CS3219-AY2425S1/cs3219-ay2425s1-project-g01) 
+         A collaborative technical interview preparation platform, designed to match users for peer coding sessions. It features real-time code collaboration and question management.
+
+      2. [Three.JS Journey](https://github.com/Teeesa7/ThreeJS-Journey)
+         Enrolled in a specialized course on 3D web development using Three.JS and React Three Fiber, focusing on creating custom shaders and integrating skills with React and Blender.
+
+      3. [APOD Project](https://apod-project-react.netlify.app/)
+         A website that displays the Astronomy Picture of the Day using data fetched from NASA's APOD API
+      
+      4. [Cruisey the Chat Bot](https://github.com/Teeesa7/ip/tree/master/docs):
+         A handy tool that helps you manage all yours tasks, deadlines, and events seamlessly.
+
+      5. [CodeConnect](https://github.com/Teeesa7/tp)
+         A platform that is used to manage your contacts, tailored to find your teammates for hackathons.
 
 - 📫 How to reach me **teeesa728@gmail.com**
 
